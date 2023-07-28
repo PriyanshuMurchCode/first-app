@@ -1,4 +1,4 @@
-# first-app
+# First App
 
 ## Project setup
 ```
